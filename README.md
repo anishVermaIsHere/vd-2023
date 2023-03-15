@@ -2,9 +2,11 @@
 
 **To run application follow these steps**
 
-1. Download this code as zip or as and open visual studio code with terminal and run command **`npm install`**.
+1. Download this code as zip.
 
-2. Then create **`.env`** file into your app/project folder not in **`src`** which you created, open the **`.env`** file and type the line **`
+2. Open VSCode Terminal with destination folder run the command **`npx create-react-app app_name`** and wait for few minutes, After created the app run command **`npm install`**.
+
+3. Then create **`.env`** file into your app/project folder not in **`src`** which you created, open the **`.env`** file and type the line **`
 **`REACT_APP_BASEURL='https://reqres.in'`**
 and save it.
 
