@@ -13,3 +13,7 @@ and save it.
 4. After the installation of all dependencies and environment setup. Now, you have to run last command **`npm start`**.
 
 5. Now your server will start successfully.
+
+6. The figma design also shown below 
+
+![preview_page](https://user-images.githubusercontent.com/97972189/226624304-f7c6717d-5d10-4b1b-85fb-ff2c21689739.jpg)
